@@ -294,7 +294,7 @@ p {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background-image: url(../Document1/lesson-2/img/bg-blog.png);
+  background-image: url(img/bg-blog.png);
   background-repeat: no-repeat;
   background-position: right 30px top 180px;
   background-size: 44%;
@@ -636,7 +636,8 @@ hr {
   .h2-top {
       font-size: 24px;
       line-height: 28px;
-      width: 343px;
+      width: 340px;
+      margin-left: 0px;
       padding-top: 48px;
   }
 

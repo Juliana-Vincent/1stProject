@@ -120,6 +120,7 @@ h1 {
   width: 510px;
   line-height: 99%;
   letter-spacing: 4%;
+  margin-bottom: 32px;
 }
 
 .text-h1 {
@@ -138,7 +139,7 @@ p {
 }
 
 .top_button {
-  width: 220px;
+  width: 120px;
   line-height: 26p;
   letter-spacing: 4%;
   text-align: center;
@@ -236,6 +237,7 @@ p {
   letter-spacing: 0.05em;
   font-style: Light;
   width: 75%;
+  display: flex;
   flex-wrap: wrap;
 }
 
@@ -292,7 +294,7 @@ p {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background-image: url(img/bg-blog.png);
+  background-image: url(../lesson-2/img/illustration.svg);
   background-repeat: no-repeat;
   background-position: right 30px top 180px;
   background-size: 44%;
@@ -336,7 +338,6 @@ p {
   text-align: center;
   color: #000000;
   margin-bottom: 32px;
-  flex-wrap: wrap;
 }
 
 .pics-position {
@@ -530,7 +531,20 @@ hr {
   }
 
   .top-box {
-      background-position: right 128px bottom 64px;
+      background-position: right 32px bottom 108px;
+  }
+
+  .h2-top {
+      width: 700px;
+  }
+
+  .h2-our-top {
+      width: 550px;
+  }
+
+  .hype2-t {
+      width: 470px;
+      margin-left: 40px;
   }
 
   .pics-position {
@@ -541,6 +555,26 @@ hr {
 
   .mik1 {
       margin-bottom: 32px;
+  }
+
+  .footer-bottom {
+      display: unset;
+  }
+
+  .footer-text {
+      padding-bottom: 25px;
+  }
+
+  .footer_button {
+      top: 3550px;
+      left: 565px;
+      width: 133px;
+      height: 32px;
+      padding: 7px 30px;
+  }
+
+  .footer_bottom-text {
+      margin-left: 95px;
   }
 }
 

@@ -235,7 +235,7 @@ p {
   color: #222222;
   text-align: center;
   letter-spacing: 0.05em;
-  width: 750px;
+  width: 900px;
 }
 
 .hype4 {
@@ -408,7 +408,6 @@ hr {
 .bottom {
   margin-left: 113px;
   margin-right: 113px;
-  justify-content: center;
 }
 
 .footer {

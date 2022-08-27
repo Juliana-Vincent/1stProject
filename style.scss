@@ -229,16 +229,13 @@
   }
   
   .hype2-t {
-    margin: 0px 113px 64px;
+    margin-bottom: 64px;
     font-size: 16px;
     line-height: 30px;
     color: #222222;
     text-align: center;
     letter-spacing: 0.05em;
-    font-style: Light;
     width: 75%;
-    display: flex;
-    flex-wrap: wrap;
   }
   
   .hype4 {
@@ -337,7 +334,8 @@
     letter-spacing: 0.05em;
     text-align: center;
     color: #000000;
-    margin-bottom: 32px;
+    margin-top: 64px;
+    margin-bottom: 48px;
   }
   
   .pics-position {
@@ -533,20 +531,14 @@
     .top-box {
         background-position: right 32px bottom 108px;
     }
-  
-    .h2-top {
-        width: 700px;
-        margin-left: 95px;
-    }
-  
-    .h2-our-top {
-        width: 550px;
-        margin-left: 40px;
+
+    .h2-top-w {
+      width: 700px;
+      margin-top: 64px;
     }
   
     .hype2-t {
-        width: 470px;
-        margin-left: 80px;
+        width: 520px;
     }
   
     .pics-position {
